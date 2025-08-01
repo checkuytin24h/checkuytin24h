@@ -1,0 +1,37 @@
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 40px;
+  margin-right: 10px;
+}
+
+.ceo-box {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  margin-top: 30px;
+}
+
+.ceo-avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.verified {
+  color: #1da1f2;
+}
+
+.qr-box img {
+  width: 100px;
+  border: 2px solid #eee;
+  border-radius: 5px;
+}
