@@ -1,0 +1,16 @@
+<header class="header">
+  <div class="container">
+    <div class="logo">
+      <img src="assets/img/logo.png" alt="CheckUyTin24H Logo">
+      <span>CheckUyTin24H</span>
+    </div>
+    <nav>
+      <ul class="menu">
+        <li><a href="index.html" class="active">Trang chủ</a></li>
+        <li><a href="tracuu.html">Tra cứu</a></li>
+        <li><a href="baocao.html">Báo cáo</a></li>
+        <li><a href="lienhe.html">Liên hệ</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
