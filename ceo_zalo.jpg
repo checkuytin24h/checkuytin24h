@@ -1,0 +1,19 @@
+<section class="ceo container">
+  <h2>Quản trị viên</h2>
+  <div class="ceo-box">
+    <img src="assets/img/ceo_avatar.jpg" alt="CEO Thành Công" class="ceo-avatar">
+    <div class="ceo-info">
+      <h3>Thành Công <span class="verified">✔</span></h3>
+      <p>CEO - CheckUyTin24H</p>
+      <div class="ceo-links">
+        <a href="https://www.facebook.com/share/19QPjVsxkK/?mibextid=wwXIfr" target="_blank">Facebook</a>
+        <a href="https://zalo.me/0818458910" target="_blank">Zalo</a>
+        <a href="https://t.me/CheckUyTin24H" target="_blank">Telegram</a>
+      </div>
+      <div class="qr-box">
+        <p>Quét QR Zalo:</p>
+        <img src="assets/img/zalo_qr.png" alt="QR Zalo">
+      </div>
+    </div>
+  </div>
+</section>
